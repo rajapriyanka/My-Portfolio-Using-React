@@ -7,7 +7,7 @@ export const Bio = {
   description: "I am a highly motivated and adaptable individual with a strong drive for learning and growth. Passionate about problem-solving and innovation, I strive to deliver high-quality results in every task I undertake. With a proactive mindset and a positive attitude, I am eager to contribute effectively and make a meaningful impact.",
   github: "https://github.com/rajapriyanka",
   resume:
- " https://drive.google.com/file/d/19mCra3_UZqNGSDYQp9rFR60QwUwHJZ2M/view?usp=sharing",
+ " https://drive.google.com/file/d/1-Z2uv3sXuCGjT6dr_PqDz46Uw44TD_dS/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/rajapriyankar/",
   email: "rajapriyanka1101@gmail.com",
 };
@@ -58,8 +58,18 @@ export const skills = [
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg",
       },
-      
-      
+      {
+        name: "JWT Authentication",
+        image:
+          "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
+      },
+      {
+        name: "REST API",
+        image:
+          "https://cdn-icons-png.flaticon.com/512/888/888879.png",
+      },
+    
+            
       {
         name: "MySQL",
         image:
@@ -69,11 +79,7 @@ export const skills = [
         name: "Postgresql",
         image: "https://www.postgresql.org/media/img/about/press/elephant.png",
       },
-      {
-        name: "MongoDB",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
-      },
+     
     
     ],
   },
@@ -93,6 +99,12 @@ export const skills = [
         name: "Netlify",
         image: "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
       },
+      {
+        name: "Vercel",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg",
+      },
+      
       {
         name: "Spring Tool Suite",
         image: "https://avatars.githubusercontent.com/u/317776?s=200&v=4"
