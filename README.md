@@ -27,7 +27,7 @@ Check out my live portfolio: https://my-portfolio-using-react-tan.vercel.app/
 ## 📬 Connect with Me
 - **GitHub:** [GitHub Profile](https://github.com/rajapriyanka/)
 - **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/rajapriyankar)
-- **Email:** your.email@example.com
+
 
 
 
