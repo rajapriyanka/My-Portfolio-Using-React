@@ -260,7 +260,7 @@ export const projects = [
   title: "Unihub - Educational Management System",
   date: "May 2025",
   description: "A smart system that automates timetable generation, manages leave requests, allocates substitutes and tracks attendance for students.",
-  image: "",
+  image: "/public/Unihub.png",
   tags: ["HTML", "CSS", "JavaScript", "Spring Boot","React Js", "MySQL"],
   category: "web app",
   github: "https://github.com/rajapriyanka/UNIHUB.git",
@@ -279,4 +279,3 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
-
