@@ -22,7 +22,7 @@ I am a passionate **Full Stack Developer** with experience in **Java, Spring Boo
    - Developed with **ReactJS**.
 
 ## 📸 Portfolio Website
-Check out my live portfolio: [[Your Portfolio UR](https://my-portfolio-using-react-tan.vercel.app/)L]
+Check out my live portfolio: https://my-portfolio-using-react-tan.vercel.app/
 
 ## 📬 Connect with Me
 - **GitHub:** [Your GitHub Profile](https://github.com/rajapriyanka/)
