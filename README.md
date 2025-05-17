@@ -25,8 +25,8 @@ I am a passionate **Full Stack Developer** with experience in **Java, Spring Boo
 Check out my live portfolio: https://my-portfolio-using-react-tan.vercel.app/
 
 ## 📬 Connect with Me
-- **GitHub:** [Your GitHub Profile](https://github.com/rajapriyanka/)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/rajapriyankar)
+- **GitHub:** [GitHub Profile](https://github.com/rajapriyanka/)
+- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/rajapriyankar)
 - **Email:** your.email@example.com
 
 
