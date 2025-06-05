@@ -130,7 +130,7 @@ export const experiences = [
     id: 1,
     role: "Java Full Stack Developer Intern",
     company: "Infosys Springboard",
-    date: "November 2024 - January 2025",
+    date: "October 2024 - December 2024",
     desc: "Completed training in Full Stack Development with Java, Spring Boot, and ReactJS through Infosys Springboard. Developed the 'All is Well Pharma Automation System' to streamline pharmaceutical processes.",
     img: "/Info.png",
     skills: [
