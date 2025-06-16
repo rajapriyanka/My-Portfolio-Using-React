@@ -120,7 +120,7 @@ export const skills = [
       },
       {
         name: "Open Office",
-     image: "https://www.vectorlogo.zone/logos/openofficeorg/openofficeorg-icon.svg",
+      image: "https://upload.wikimedia.org/wikipedia/commons/6/6f/OpenOfficeLogo.svg"
       }
     ]
   },
