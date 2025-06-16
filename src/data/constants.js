@@ -172,7 +172,8 @@ export const education = [
     date: "Nov 2021 - May 2025",
     grade: "8.33 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Parisutham Institute of Technology and Science, Thanjavur. I have completed multiple semesters with a CGPA of 8.33. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I have also actively participated in technical communities and associations, enhancing my knowledge and practical skills in Full Stack Development.",
-    degree: "Bachelor of Engineering - BE, Computer Science and Engineering"
+   degree: "Bachelor of Engineering (BE) in Computer Science and Engineering, with Honours in Full Stack Development"
+
 },
 {
   id: 1,
