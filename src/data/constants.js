@@ -117,6 +117,10 @@ export const skills = [
       {
         name: "Postman",
         image: "https://www.svgrepo.com/show/354202/postman-icon.svg",
+      },
+      {
+        name: "Open Office",
+        image: "https://www.svgrepo.com/show/373589/openoffice.svg",
       }
     ]
   },
