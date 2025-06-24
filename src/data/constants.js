@@ -7,7 +7,7 @@ export const Bio = {
   description: "I am a highly motivated and adaptable individual with a strong drive for learning and growth. Passionate about problem-solving and innovation, I strive to deliver high-quality results in every task I undertake. With a proactive mindset and a positive attitude, I am eager to contribute effectively and make a meaningful impact.",
   github: "https://github.com/rajapriyanka",
   resume:
- " https://drive.google.com/file/d/1V7og7y5vE5d0QlnCDgStWAA0guZuoGfi/view?usp=sharing",
+ " https://drive.google.com/file/d/1-Z2uv3sXuCGjT6dr_PqDz46Uw44TD_dS/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/rajapriyankar/",
   email: "rajapriyanka1101@gmail.com",
 };
@@ -117,11 +117,7 @@ export const skills = [
       {
         name: "Postman",
         image: "https://www.svgrepo.com/show/354202/postman-icon.svg",
-      },
-     {
-  name: "Open Office",
-  image: "https://icon-icons.com/icons/png/512/170883/pretty_blue/orb.svg"
-},
+      }
     ]
   },
   
@@ -134,7 +130,7 @@ export const experiences = [
     id: 1,
     role: "Java Full Stack Developer Intern",
     company: "Infosys Springboard",
-    date: "October 2024 - December 2024",
+    date: "November 2024 - January 2025",
     desc: "Completed training in Full Stack Development with Java, Spring Boot, and ReactJS through Infosys Springboard. Developed the 'All is Well Pharma Automation System' to streamline pharmaceutical processes.",
     img: "/Info.png",
     skills: [
@@ -172,8 +168,7 @@ export const education = [
     date: "Nov 2021 - May 2025",
     grade: "8.33 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Parisutham Institute of Technology and Science, Thanjavur. I have completed multiple semesters with a CGPA of 8.33. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I have also actively participated in technical communities and associations, enhancing my knowledge and practical skills in Full Stack Development.",
-   degree: "Bachelor of Engineering (BE) in Computer Science and Engineering, with Honours in Full Stack Development"
-
+    degree: "Bachelor of Engineering - BE, Computer Science and Engineering"
 },
 {
   id: 1,
@@ -265,7 +260,7 @@ export const projects = [
   title: "Unihub - Educational Management System",
   date: "May 2025",
   description: "A smart system that automates timetable generation, manages leave requests, allocates substitutes and tracks attendance for students.",
-  image: "/Unihub.png",
+  image: "/public/Unihub.png",
   tags: ["HTML", "CSS", "JavaScript", "Spring Boot","React Js", "MySQL"],
   category: "web app",
   github: "https://github.com/rajapriyanka/UNIHUB.git",

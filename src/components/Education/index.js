@@ -83,7 +83,7 @@ const index = () => {
             <Wrapper>
                 <Title>Education</Title>
                 <Desc>
-                 My educational path has equipped me with both theoretical knowledge and practical insight. Please find the details below.
+                    My education has been a journey of self-discovery and growth. My educational details are as follows.
                 </Desc>
                 <TimelineSection>
                     <Timeline>
