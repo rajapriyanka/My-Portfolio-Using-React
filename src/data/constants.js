@@ -1,7 +1,7 @@
 export const Bio = {
   name: "Rajapriyanka R",
   roles: [
-    "Java Full Stack Developer",
+    "Full Stack Developer",
        "CSE Graduate",
   ],
   description: "I am a highly motivated and adaptable individual with a strong drive for learning and growth. Passionate about problem-solving and innovation, I strive to deliver high-quality results in every task I undertake. With a proactive mindset and a positive attitude, I am eager to contribute effectively and make a meaningful impact.",
