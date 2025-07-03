@@ -7,7 +7,7 @@ export const Bio = {
   description: "I am a highly motivated and adaptable individual with a strong drive for learning and growth. Passionate about problem-solving and innovation, I strive to deliver high-quality results in every task I undertake. With a proactive mindset and a positive attitude, I am eager to contribute effectively and make a meaningful impact.",
   github: "https://github.com/rajapriyanka",
   resume:
- " https://drive.google.com/file/d/1-Z2uv3sXuCGjT6dr_PqDz46Uw44TD_dS/view?usp=sharing",
+ "https://drive.google.com/file/d/1vhUdRIrSxNjwAyoVodweC-hcdX7xJWMt/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/rajapriyankar/",
   email: "rajapriyanka1101@gmail.com",
 };
