@@ -280,3 +280,4 @@ export const TimeLineData = [
   { year: 2021, text: "Started my own platform" },
 ];
 
+
