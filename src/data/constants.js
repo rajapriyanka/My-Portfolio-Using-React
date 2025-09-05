@@ -125,9 +125,22 @@ export const skills = [
 ];
 
 export const experiences = [
+    {
+    id: 1,
+    role: "Technical Consultant",
+    company: "VVASAI Software Solutions Pvt Limited",
+    date: "July 2025 - Present",
+    img: "/Info.png",
+    skills: [
+      "NodeJs",
+      "Spring Boot",
+      "ReactJS",
+      "Postgre SQL",
+    ]
+},
  
   {
-    id: 1,
+    id: 2,
     role: "Java Full Stack Developer Intern",
     company: "Infosys Springboard",
     date: "November 2024 - January 2025",
@@ -144,7 +157,7 @@ export const experiences = [
     ]
 },
   {
-    id: 2,
+    id: 3,
     role: "Web Development Intern",
     company: "Unified Mentor",
     date: "May 2024 - June 2024",
@@ -279,5 +292,6 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
+
 
 
