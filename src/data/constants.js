@@ -130,7 +130,7 @@ export const experiences = [
     role: "Technical Consultant",
     company: "VVASAI Software Solutions Pvt Limited",
     date: "July 2025 - Present",
-    img: "/Info.png",
+    img: "/vvasai.jpeg",
     skills: [
       "NodeJs",
       "Spring Boot",
@@ -292,6 +292,7 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
+
 
 
 
