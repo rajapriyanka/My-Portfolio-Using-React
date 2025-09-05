@@ -80,7 +80,7 @@ const index = () => {
             <Wrapper>
                 <Title>Experience</Title>
                 <Desc>
-                    My work experience as a software engineer and working on different companies and projects.
+Adaptable developer with a proven track record of delivering quality across varied projects.
                 </Desc>
                 <TimelineSection>
                     <Timeline>
@@ -102,5 +102,6 @@ const index = () => {
         </Container>
     )
 }
+
 
 export default index
