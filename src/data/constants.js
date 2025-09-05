@@ -4,7 +4,7 @@ export const Bio = {
     "Full Stack Developer",
        "CSE Graduate",
   ],
-  description: "I am a highly motivated and adaptable individual with a strong drive for learning and growth. Passionate about problem-solving and innovation, I strive to deliver high-quality results in every task I undertake. With a proactive mindset and a positive attitude, I am eager to contribute effectively and make a meaningful impact.",
+  description: "Code. Create. Impact."
   github: "https://github.com/rajapriyanka",
   resume:
  "https://drive.google.com/file/d/1yeF_xoqK2DkguH2ajHYgj22ckDc9QXf-/view?usp=sharing",
@@ -290,6 +290,7 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
+
 
 
 
