@@ -79,7 +79,7 @@ skills: [
   },
 {
   name: "MQTT",
-  image: "https://cdn.worldvectorlogo.com/logos/mqtt.svg",
+  image: "https://mqtt.org/assets/downloads/mqtt-logo.png",
 },
   {
     name: "Node.js",
@@ -303,6 +303,7 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
+
 
 
 
