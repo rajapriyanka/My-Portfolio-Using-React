@@ -89,7 +89,7 @@ skills: [
   },
 {
   name: "RabbitMQ",
-  image: "https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg",
+  image: "https://cdn.worldvectorlogo.com/logos/rabbitmq.svg",
 },
   {
     name: "Swagger",
@@ -304,6 +304,7 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
+
 
 
 
