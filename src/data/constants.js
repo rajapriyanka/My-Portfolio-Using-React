@@ -51,38 +51,54 @@ export const skills = [
     ],
   },
   {
-    title: "Backend",
-    skills: [
-      {
-        name: "Spring Boot",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg",
-      },
-      {
-        name: "JWT Authentication",
-        image:
-          "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
-      },
-      {
-        name: "REST API",
-        image:
-          "https://cdn-icons-png.flaticon.com/512/888/888879.png",
-      },
-    
-            
-      {
-        name: "MySQL",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
-      },
-      {
-        name: "Postgresql",
-        image: "https://www.postgresql.org/media/img/about/press/elephant.png",
-      },
-     
-    
-    ],
+ title: "Backend",
+skills: [
+  {
+    name: "Spring Boot",
+    image:
+      "https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg",
   },
+  {
+    name: "JWT Authentication",
+    image:
+      "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
+  },
+  {
+    name: "REST API",
+    image:
+      "https://cdn-icons-png.flaticon.com/512/888/888879.png",
+  },
+  {
+    name: "MySQL",
+    image:
+      "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+  },
+  {
+    name: "PostgreSQL",
+    image: "https://www.postgresql.org/media/img/about/press/elephant.png",
+  },
+  {
+    name: "MQTT",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/3/3c/MQTT_Logo.svg",
+  },
+  {
+    name: "Node.js",
+    image:
+      "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg",
+  },
+  {
+    name: "RabbitMQ",
+    image:
+      "https://www.rabbitmq.com/img/rabbitmq-logo.svg",
+  },
+  {
+    name: "Swagger",
+    image:
+      "https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg",
+  },
+],
+
  
   {
     title: "Others",
@@ -290,6 +306,7 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
+
 
 
 
