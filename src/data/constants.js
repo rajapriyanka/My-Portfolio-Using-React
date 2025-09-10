@@ -87,11 +87,10 @@ skills: [
     image:
       "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg",
   },
-  {
-    name: "RabbitMQ",
-    image:
-      "https://www.rabbitmq.com/img/rabbitmq-logo.svg",
-  },
+{
+  name: "RabbitMQ",
+  image: "https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg",
+},
   {
     name: "Swagger",
     image:
@@ -305,6 +304,7 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
+
 
 
 
