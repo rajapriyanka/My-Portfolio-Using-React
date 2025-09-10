@@ -249,7 +249,7 @@ export const projects = [
     github: "https://github.com/rajapriyanka/Pharma-Automation-System.git"
 },
 {
-  id: 1,
+  id: 3,
   title: "Weather Web",
   date: "Jul 2023",
   description: "A simple web-based application that allows users to check the current weather of any city using the OpenWeatherMap API. Features include real-time weather data, temperature display in Celsius, and a clean UI.",
@@ -260,7 +260,7 @@ export const projects = [
   webapp: "https://rajapriyanka.github.io/Weather-Web/"
 },
 {
-  id: 2,
+  id: 4,
   title: "English Dictionary Web App",
   date: "Aug 2023",
   description: "An interactive dictionary web app that allows users to search for word meanings and listen to pronunciations using the Dictionary API. Features include real-time word search, meaning display, and audio pronunciation.",
@@ -271,7 +271,7 @@ export const projects = [
   webapp: "https://english-dictionary-cyan.vercel.app/"
 },
 {
-  id: 3,
+  id: 5,
   title: "Expense Tracker Web App",
   date: "Sep 2023",
   description: "A simple and interactive web application that allows users to record, track, and manage their expenses efficiently. Features include real-time total calculation, local storage support, and an intuitive UI.",
@@ -282,7 +282,7 @@ export const projects = [
   webapp: "https://rajapriyanka.github.io/Expense-Tracker/"
 },
 {
-  id: 4,
+  id: 6,
   title: "Unihub - Educational Management System",
   date: "May 2025",
   description: "A smart system that automates timetable generation, manages leave requests, allocates substitutes and tracks attendance for students.",
@@ -290,6 +290,17 @@ export const projects = [
   tags: ["HTML", "CSS", "JavaScript", "Spring Boot","React Js", "MySQL"],
   category: "web app",
   github: "https://github.com/rajapriyanka/UNIHUB.git",
+ 
+},
+  {
+  id: 7,
+  title: "Quiz Web",
+  date: "March 2025",
+  description: "QuizWeb is an interactive quiz application with real-time timers, performance analysis, and a seamless user experience.",
+  image: "/Unihub.png",
+  tags: [ "Spring Boot","Angular Js", "MySQL"],
+  category: "web app",
+  github: "https://github.com/rajapriyanka/Quiz-Application.git",
  
 },
 
@@ -303,6 +314,7 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
+
 
 
 
