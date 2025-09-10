@@ -320,15 +320,13 @@ export const projects = [
   title: "Memory Game",
   date: "June 2025",
   description: "Classic Memory Game is a 4x4 card-flipping challenge that sharpens memory skills with smooth gameplay and interactive UI",
-  image: "/Ai.png",
+  image: "/MemoryGame.png",
   tags: ["HTNL", "CSS","Javascript"],
   category: "web app",
   github: "https://github.com/rajapriyanka/Memory-Game.git",
   webapp: "https://rajapriyanka.github.io/Memory-Game/"
  
 },
-
-
 
 ];
 
@@ -340,6 +338,7 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
+
 
 
 
