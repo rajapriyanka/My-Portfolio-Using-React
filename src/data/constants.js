@@ -297,7 +297,7 @@ export const projects = [
   title: "Quiz Web",
   date: "March 2025",
   description: "QuizWeb is an interactive quiz application with real-time timers, performance analysis, and a seamless user experience.",
-  image: "/Unihub.png",
+  image: "/Quiz.png",
   tags: [ "Spring Boot","Angular Js", "MySQL"],
   category: "web app",
   github: "https://github.com/rajapriyanka/Quiz-Application.git",
@@ -314,6 +314,7 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
+
 
 
 
