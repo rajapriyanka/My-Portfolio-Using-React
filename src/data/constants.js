@@ -303,6 +303,32 @@ export const projects = [
   github: "https://github.com/rajapriyanka/Quiz-Application.git",
  
 },
+  {
+  id: 8,
+  title: "AI Resume Analyzer",
+  date: "July 2025",
+  description: "AI Resume Analyzer evaluates resumes with AI, offering job-specific feedback and match optimization in a responsive interface.",
+  image: "/Ai.png",
+  tags: ["React Js", "Puter Js"],
+  category: "web app",
+  github: "https://github.com/rajapriyanka/AI-Resume-Analyzer.git",
+  webapp: "https://ai-resume-analyzer-vert-nine.vercel.app/"
+ 
+},
+{
+  id: 9,
+  title: "Memory Game",
+  date: "June 2025",
+  description: "Classic Memory Game is a 4x4 card-flipping challenge that sharpens memory skills with smooth gameplay and interactive UI",
+  image: "/Ai.png",
+  tags: ["HTNL", "CSS","Javascript"],
+  category: "web app",
+  github: "https://github.com/rajapriyanka/Memory-Game.git",
+  webapp: "https://rajapriyanka.github.io/Memory-Game/"
+ 
+},
+
+
 
 ];
 
@@ -314,6 +340,7 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
+
 
 
 
