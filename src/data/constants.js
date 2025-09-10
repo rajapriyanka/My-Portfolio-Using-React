@@ -77,11 +77,10 @@ skills: [
     name: "PostgreSQL",
     image: "https://www.postgresql.org/media/img/about/press/elephant.png",
   },
-  {
-    name: "MQTT",
-    image:
-      "https://upload.wikimedia.org/wikipedia/commons/3/3c/MQTT_Logo.svg",
-  },
+{
+  name: "MQTT",
+  image: "https://cdn.worldvectorlogo.com/logos/mqtt.svg",
+},
   {
     name: "Node.js",
     image:
@@ -304,6 +303,7 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
+
 
 
 
