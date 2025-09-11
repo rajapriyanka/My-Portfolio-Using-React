@@ -188,14 +188,15 @@ export const experiences = [
 
 export const education = [
   {
-    id: 0,
-    img: "/pits.jpeg",
-    school: "Parisutham Institute of Technology and Science, Thanjavur",
-    date: "Nov 2021 - May 2025",
-    grade: "8.33 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Parisutham Institute of Technology and Science, Thanjavur. I have completed multiple semesters with a CGPA of 8.33. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I have also actively participated in technical communities and associations, enhancing my knowledge and practical skills in Full Stack Development.",
-    degree: "Bachelor of Engineering - BE, Computer Science and Engineering"
-},
+    "id": 0,
+    "img": "/pits.jpeg",
+    "school": "Parisutham Institute of Technology and Science, Thanjavur",
+    "date": "Nov 2021 - May 2025",
+    "grade": "8.50 CGPA (with Honors)",
+    "desc": "I have successfully completed my Bachelor's degree in Computer Science and Engineering with Honors in Full Stack Development at Parisutham Institute of Technology and Science, Thanjavur. During my academic journey, I gained strong knowledge in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems and Computer Networks. I also specialized in Full Stack Development, building real-world projects that strengthened my practical skills. Additionally, I actively participated in technical communities and associations, further enhancing my collaborative and leadership abilities.",
+    "degree": "Bachelor of Engineering - BE, Computer Science and Engineering (Honors in Full Stack Development)"
+}
+
 {
   id: 1,
   img:"/kalaimagal.jpeg",
@@ -338,6 +339,7 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
+
 
 
 
