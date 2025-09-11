@@ -204,7 +204,7 @@ export const education = [
   date: "Jun 2020 - May 2021",
   grade: "88%",
   desc: "I completed my Class 12 education at Kalaimagal Higher Secondary School, Thanjavur, where I studied Bio Maths.",
-  degree: "HSLC (XII)"
+  degree: "HSC (XII)"
 },
 {
   id: 2,
@@ -339,6 +339,7 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
+
 
 
 
