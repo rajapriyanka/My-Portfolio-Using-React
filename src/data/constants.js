@@ -7,7 +7,7 @@ export const Bio = {
   description: "Code. Create. Impact.",
   github: "https://github.com/rajapriyanka",
   resume:
- "https://drive.google.com/file/d/1yeF_xoqK2DkguH2ajHYgj22ckDc9QXf-/view?usp=sharing",
+ "https://drive.google.com/file/d/11Jn1oej1eQv9H6NN2M56nrvefUUlKEZP/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/rajapriyankar/",
   email: "rajapriyanka1101@gmail.com",
 };
@@ -339,6 +339,7 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
+
 
 
 
