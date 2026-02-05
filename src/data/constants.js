@@ -57,7 +57,7 @@ export const experiences = [
     role: "Software Developer",
     company: "TechSwing Solutions Pvt. Ltd.",
     date: "Feb 2026 - Present",
-    img: "/techswing.jpeg",
+    img: "/techSwingSolutions.jpg",
     skills: ["Java", "Spring Boot", "PostgreSQL"],
   },
   {
@@ -166,4 +166,5 @@ export const projects = [
     webapp: "https://ai-resume-analyzer-vert-nine.vercel.app/",
   },
 ];
+
 
