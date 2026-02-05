@@ -136,41 +136,39 @@ skills: [
   
   
 ];
-
 export const experiences = [
-    {
+  {
     id: 1,
     role: "Software Developer",
-    company: "Techswing Solutions Pvt Limited",
+    company: "TechSwing Solutions Pvt. Ltd.",
     date: "Feb 2026 - Present",
-    img: "/vvasai.jpeg",
+    img: "/techswing.jpeg",
     skills: [
-      "Spring Boot",
       "Java",
-      "Postgre SQL",
+      "Spring Boot",
+      "PostgreSQL"
     ]
-},
-      {
+  },
+  {
     id: 2,
     role: "Technical Consultant",
-    company: "VVASAI Software Solutions Pvt Limited",
+    company: "VVASAI Software Solutions Pvt. Ltd.",
     date: "July 2025 - Present",
     img: "/vvasai.jpeg",
     skills: [
-      "NodeJs",
+      "Node.js",
       "Spring Boot",
       "ReactJS",
-      "Postgre SQL",
+      "PostgreSQL"
     ]
-},
- 
+  },
   {
     id: 3,
     role: "Java Full Stack Developer Intern",
     company: "Infosys Springboard",
-    date: "November 2024 - January 2025",
-    desc: "Completed training in Full Stack Development with Java, Spring Boot, and ReactJS through Infosys Springboard. Developed the 'All is Well Pharma Automation System' to streamline pharmaceutical processes.",
-    img: "/Info.png",
+    date: "Nov 2024 - Jan 2025",
+    desc: "Completed Full Stack Development training with Java, Spring Boot, and ReactJS. Developed the 'All is Well Pharma Automation System' to streamline pharmaceutical processes.",
+    img: "/infosys.png",
     skills: [
       "Java",
       "Spring Boot",
@@ -180,22 +178,23 @@ export const experiences = [
       "CSS",
       "JavaScript"
     ]
-},
+  },
   {
     id: 4,
     role: "Web Development Intern",
     company: "Unified Mentor",
-    date: "May 2024 - June 2024",
-    desc: "Completed a one-month internship at Unified Mentor, where I learned front-end web development, including modern UI/UX principles and responsive design.",
-    img: "/Unified.jpeg",
+    date: "May 2024 - Jun 2024",
+    desc: "Completed a one-month internship focused on front-end web development, responsive design, and modern UI/UX practices.",
+    img: "/unified.jpeg",
     skills: [
       "HTML",
       "CSS",
       "JavaScript",
       "ReactJS"
     ]
-},
+  }
 ];
+
 
 export const education = [
   {
@@ -350,6 +349,7 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
+
 
 
 
