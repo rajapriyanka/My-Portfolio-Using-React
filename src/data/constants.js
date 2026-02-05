@@ -53,7 +53,7 @@ export const skills = [
 // ================= EXPERIENCE =================
 export const experiences = [
   {
-    id: 0,
+    id: 1,
     role: "Software Developer",
     company: "TechSwing Solutions Pvt. Ltd.",
     date: "Feb 2026 - Present",
@@ -61,7 +61,7 @@ export const experiences = [
     skills: ["Java", "Spring Boot", "PostgreSQL"],
   },
   {
-    id: 1,
+    id: 2,
     role: "Technical Consultant",
     company: "VVASAI Software Solutions Pvt. Ltd.",
     date: "Jul 2025 - Present",
@@ -69,7 +69,7 @@ export const experiences = [
     skills: ["Node.js", "Spring Boot", "React JS", "PostgreSQL"],
   },
   {
-    id: 2,
+    id: 3,
     role: "Java Full Stack Developer Intern",
     company: "Infosys Springboard",
     date: "Nov 2024 - Jan 2025",
@@ -77,15 +77,7 @@ export const experiences = [
     img: "/infosys.png",
     skills: ["Java", "Spring Boot", "React JS", "MySQL"],
   },
-  {
-    id: 3,
-    role: "Web Development Intern",
-    company: "Unified Mentor",
-    date: "May 2024 - Jun 2024",
-    desc: "Worked on responsive UI design and modern frontend development practices.",
-    img: "/unified.jpeg",
-    skills: ["HTML", "CSS", "JavaScript", "React JS"],
-  },
+
 ];
 
 // ================= EDUCATION =================
@@ -166,6 +158,7 @@ export const projects = [
     webapp: "https://ai-resume-analyzer-vert-nine.vercel.app/",
   },
 ];
+
 
 
 
