@@ -1,4 +1,3 @@
-// ================= BIO =================
 export const Bio = {
   name: "Rajapriyanka R",
   roles: ["Full Stack Developer", "CSE Graduate"],
@@ -167,3 +166,4 @@ export const projects = [
     webapp: "https://ai-resume-analyzer-vert-nine.vercel.app/",
   },
 ];
+
