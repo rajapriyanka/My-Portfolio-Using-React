@@ -3,7 +3,7 @@ export const Bio = {
   roles: ["Full Stack Developer", "CSE Graduate"],
   description: "Code. Create. Impact.",
   github: "https://github.com/rajapriyanka",
-  resume: "https://drive.google.com/file/d/11Jn1oej1eQv9H6NN2M56nrvefUUlKEZP/view",
+  resume: "https://drive.google.com/file/d/1lCu9fNUtOc0Y_eYqhMX84ZF6fyLgWgD8/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/rajapriyankar/",
   email: "rajapriyanka1101@gmail.com",
 };
@@ -158,6 +158,7 @@ export const projects = [
     webapp: "https://ai-resume-analyzer-vert-nine.vercel.app/",
   },
 ];
+
 
 
 
